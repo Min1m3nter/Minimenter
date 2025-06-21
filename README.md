@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsh20042002 aka Harshvardhan Faldu
+- 👋 Hi, I’m @Minimenter aka Harshvardhan Faldu
 - 👀 I’m interested in Artificial Intelligence and Cyber Security
 - 🌱 I’m currently learning networking and the use of AI in the field of CS
 - 💞️ I’m looking to collaborate on these
